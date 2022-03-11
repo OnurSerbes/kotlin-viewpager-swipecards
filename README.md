@@ -7,4 +7,5 @@ https://github.com/askNilesh/carousel-layout-using-viewPager2
 
 
 
-![Image](https://user-images.githubusercontent.com/75833534/157950238-8a491272-fa52-4162-8a8b-ce17203f0eb1.jpg)
+![Image](https://user-images.githubusercontent.com/75833534/157950479-90ee6162-1d5d-4d78-92e5-d900c779bba8.jpg)
+
