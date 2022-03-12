@@ -3,8 +3,11 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
 
-    <dimen name="pageMargin" tools:ignore="MissingDefaultResource">20dp</dimen>
-    <dimen name="offset" tools:ignore="MissingDefaultResource">20dp</dimen>
-    <dimen name="pageMarginAndOffset" tools:ignore="MissingDefaultResource">25dp</dimen>
+    <dimen name="pageMargin">20dp</dimen>
+    <dimen name="offset">20dp</dimen>
+    <dimen name="pageMarginAndOffset">20dp</dimen>
+
+    <dimen name="next_item_visible_width">35dp</dimen>
+    <dimen name="viewpager_horizontal_margin">10dp</dimen>
 
 </resources>
